@@ -1,0 +1,23 @@
+{
+"toDoList" : "قائمة المهام",
+"delete": "حذف",
+"add_new_task": "اضافه مهمه جديده",
+"select_time": "حدد التاريخ",
+"enter_ur_task": "ادخل المهمه الخاصه بك",
+"language" : "اللغه",
+"mode": "النمط",
+"english": "الانجليزيه",
+"arabic": "العربيه",
+"settings": "الاعدادات",
+"task_list": "قائمة المهام",
+"light": "مضي",
+"dark": "غامق",
+"edit_task" : "تعديل المهمه",
+"this_is_task" : "هذه المهمه ",
+"task_details": "تفاصيل المهمه",
+"save_changes" : "حفظ التغيرات",
+"done": "!تم",
+"add" : "اضافه",
+"enter_task_title": "اكتب عنوان المهمه",
+"enter_task_description": "اكتب تفاصيل المهمه"
+}
